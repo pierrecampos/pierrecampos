@@ -2,7 +2,7 @@
 <h3 align="left">Sou desenvolvedor Java ☕, com uma grande paixão por novas tecnologias e pela natureza ! 🌳</h3>
 
 - 💼 Atualmente trabalhando com Software ERP **utilizando Java**
-- 🧙 Cursando o 6º Período de *<s>Magia</s>* **Ciência da Computação - UIT**
+- :mage_man: Cursando o 6º Período de *<s>Magia</s>* **Ciência da Computação - UIT**
 - 👨‍💻 Estudando **HTML, CSS e JavaScript**
 - 🌟 Sempre em busca do **conhecimento !**
 
