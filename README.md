@@ -14,7 +14,7 @@
 
 ##
 <h3>Você me encontra aqui: </h3>
-<a href="https://www.instagram.com/pierre_ao_2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/pierre.cdias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/pierre-campos-dias-38577b165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
 <h4 align="center"> "And don't forget son there is someone up above" 🙌 </h4>
