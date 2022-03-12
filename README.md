@@ -1,7 +1,7 @@
 <h2 align="left">Olá, meu nome é Pierre, seja bem vindo(a) ao meu perfil ✌️</h1>
 <h3 align="left">Sou desenvolvedor Java ☕, com uma grande paixão por novas tecnologias e pela natureza ! 🌳</h3>
 
-<img src="coder.svg" align="right" width="300" height="310" > 
+<img src="coder.svg" align="right" width="300" height="283" > 
 
 * 💼 Atualmente trabalhando como **Desenvolvedor Java Back-end** <br>
 * :mage_man: Cursando o 7º Período de *<s>Magia</s>* **Ciência da Computação - UIT**
