@@ -4,7 +4,7 @@
 <img src="coder.svg" align="right" width="300" height="283" > 
 
 * 💼 Atualmente trabalhando como **Desenvolvedor Java Back-end** <br>
-* :mage_man: Cursando o 7º Período de *<s>Magia</s>* **Ciência da Computação - UIT**
+* :mage_man: Cursando o 8º Período de *<s>Magia</s>* **Ciência da Computação - UIT**
 * 🌟 Sempre em busca do **conhecimento !**
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
