@@ -1,4 +1,4 @@
-## Seja bem vindo ao meu portifólio :coffee:  
+## Sejam bem-vindos ao meu portifólio :coffee:  
 
 #### :brazil: Sou desenvolvedor pleno back-end, me aventurando no front-end.
 
