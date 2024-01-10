@@ -1,10 +1,9 @@
 ## Sejam bem-vindos ao meu portifólio :coffee:  
 
-#### :brazil: Sou desenvolvedor pleno back-end, me aventurando no front-end.
+#### :brazil: Desenvolvedor Full-stack.
 
 * :mage_man: Formado em ~~Magia~~ Ciência da Computação - UIT
-* :gear: Skills: `Java` `Angular` `Javascript` `C#` `Python` `Unity`
-* :penguin:Entusiasta de `Linux`
+* :gear: Skills: `Java` `Angular` `Swift` `Javascript` `C#` `Python` `Unity`
 * :deciduous_tree: "Toda arte é imitação da natureza" - Sêneca
 
 #### :link: Vem conversar comigo!
